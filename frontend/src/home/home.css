@@ -1,9 +1,10 @@
 .home{
-    flex: 6;
+    flex: 4;
 }
 
 
 .followers{
-    color: greenyellow;
+    color: red;
     font-size: small;
 }
+
