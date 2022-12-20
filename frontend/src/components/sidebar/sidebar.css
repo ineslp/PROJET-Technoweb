@@ -1,9 +1,10 @@
 .sidebar{
     flex: 1;
     height: calc(100vh- 50px);
-    background-color: darkblue;
+    background-color: rgb(235, 234, 234);
     position: sticky;
     top: 50px;
+    border-radius: 5px;
 }
 
 .material-icons{
@@ -22,5 +23,7 @@
 }
 
 .sidebarItems.active, .sidebarItems:hover{
-    background-color: red;
+    background-color: lightgrey;
+    cursor: pointer;
+    border-width: 1cm ;
 }
