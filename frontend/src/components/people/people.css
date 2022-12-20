@@ -1,0 +1,55 @@
+.Ligne3{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Age{
+    flex:1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: grey 0px 4px 12px;
+    background-color: grey;
+}
+
+
+.AgeTitle{
+    font-size: larger;
+}
+
+
+.PourcentAge{
+    font-size: medium;
+    text-align: center;
+    position: static;
+    font-weight: 600;
+    color: #aa2cbd;
+    margin-left: 5px;
+}
+
+.sexe{
+    flex:1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: grey 0px 4px 12px;
+    background-color: grey;
+}
+
+
+.sexeTitle{
+    font-size: larger;
+}
+
+
+.sexePourcent{
+    font-size: large;
+    text-align: center;
+    position: static;
+    font-weight: 600;
+    vertical-align: 50px;
+    color: #aa2cbd
+}

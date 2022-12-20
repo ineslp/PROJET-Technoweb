@@ -1,0 +1,16 @@
+.chart{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: grey 0px 4px 12px;
+    background-color: grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.chartTitle{
+    font-size: larger;
+}
+
+.chartSubTitle{
+    font-size: small;
+}

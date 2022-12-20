@@ -1,0 +1,61 @@
+.Widget1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.followersInsta{
+    flex:1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: grey 0px 4px 12px;
+    background-color: grey;
+}
+
+.followersTopInsta{
+    flex:1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: grey 0px 4px 12px;
+    background-color: grey;
+}
+
+.widget1Title{
+    font-size: larger;
+}
+
+.Numberfollowers{
+    font-size: x-large;
+    justify-content: center;
+    font-weight: 600;
+    color: #aa2cbd;
+}
+
+.widget2Title{
+    font-size: medium;
+}
+
+.widget2Name1{
+    font-size: medium;
+    justify-content: center;
+    font-weight: 600;
+    color: #aa2cbd
+}
+
+.widget2Name2{
+    font-size: medium;
+    justify-content: center;
+    font-weight: 600;
+    color: #aa2cbd
+}
+
+.widget2Name3{
+    font-size: medium;
+    justify-content: center;
+    font-weight: 600;
+    color: #aa2cbd
+}
