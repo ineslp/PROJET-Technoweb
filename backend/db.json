@@ -1,0 +1,70 @@
+
+   { "users":[
+        {
+            "id": 1,
+            "username": "cristiano",
+            "followers": "519 mio",
+            "sexe": "Homme",
+            "origin": "Europe"
+        },
+        {
+            "id": 2,
+            "username": "leomessi",
+            "followers": "403 mio",
+            "sexe": "Homme",
+            "origin": "America"
+        },
+        {
+            "id": 3,
+            "username": "kyliejenner",
+            "followers": "375 mio",
+            "sexe": "Femme",
+            "origin": "America"
+        },
+        {
+            "id": 4,
+            "username": "instagram",
+            "followers": "580 mio",
+            "sexe": "Autres",
+            "origin": "America"
+        }
+        ],
+    
+  "age":[
+        {
+            "id": 1,
+            "cateAge": 1317,
+            "pourcentAge": 8.9
+        },
+        {
+            "id": 2,
+            "cateAge": 1824,
+            "pourcentAge": 30.2
+        },
+        {
+            "id": 3,
+            "cateAge": 2434,
+            "pourcentAge": 31.7
+        },
+        {
+            "id": 4,
+            "cateAge": 3544,
+            "pourcentAge": 15.8
+        },
+        {
+            "id": 5,
+            "cateAge": 4554,
+            "pourcentAge": 7.8
+        },
+        {
+            "id": 1,
+            "cateAge": 5564,
+            "pourcentAge": 3.7
+        },
+        {
+            "id": 1,
+            "cateAge": 65,
+            "pourcentAge": 2.1
+        }
+    ]
+} 
